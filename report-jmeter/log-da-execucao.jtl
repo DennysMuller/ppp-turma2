@@ -1,0 +1,601 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1763167351060,129,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-14,text,true,,349,288,21,21,http://localhost:3000/students/register,129,0,14
+1763167351026,163,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-12,text,true,,351,290,21,21,http://localhost:3000/students/register,163,0,48
+1763167351025,163,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-3,text,true,,343,281,21,21,http://localhost:3000/students/register,163,0,48
+1763167351026,172,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-9,text,true,,347,285,21,21,http://localhost:3000/students/register,172,0,48
+1763167351040,161,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-13,text,true,,351,290,21,21,http://localhost:3000/students/register,161,0,34
+1763167351025,181,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-5,text,true,,351,290,22,22,http://localhost:3000/students/register,181,0,48
+1763167351025,184,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-4,text,true,,345,283,22,22,http://localhost:3000/students/register,184,0,48
+1763167351025,189,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-7,text,true,,345,283,22,22,http://localhost:3000/students/register,189,0,49
+1763167351025,196,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-6,text,true,,357,296,22,22,http://localhost:3000/students/register,196,0,49
+1763167351025,200,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-2,text,true,,352,290,22,22,http://localhost:3000/students/register,200,0,49
+1763167351026,203,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-8,text,true,,348,285,23,23,http://localhost:3000/students/register,203,0,49
+1763167351026,208,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-11,text,true,,352,290,23,23,http://localhost:3000/students/register,208,0,49
+1763167351025,211,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-1,text,true,,346,283,23,23,http://localhost:3000/students/register,211,0,49
+1763167351026,214,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-10,text,true,,354,292,24,24,http://localhost:3000/students/register,214,0,49
+1763167351224,85,Login dos usuários,200,OK,Registro de usuários como estudante 1-6,text,true,,408,260,27,27,http://localhost:3000/students/login,85,0,0
+1763167351199,81,Login dos usuários,200,OK,Registro de usuários como estudante 1-9,text,true,,408,255,25,25,http://localhost:3000/students/login,80,0,0
+1763167351211,89,Login dos usuários,200,OK,Registro de usuários como estudante 1-4,text,true,,408,254,27,27,http://localhost:3000/students/login,88,0,0
+1763167351208,86,Login dos usuários,200,OK,Registro de usuários como estudante 1-5,text,true,,408,257,26,26,http://localhost:3000/students/login,86,0,0
+1763167351217,87,Login dos usuários,200,OK,Registro de usuários como estudante 1-7,text,true,,408,254,27,27,http://localhost:3000/students/login,87,0,0
+1763167351230,91,Login dos usuários,200,OK,Registro de usuários como estudante 1-8,text,true,,409,255,28,28,http://localhost:3000/students/login,91,0,0
+1763167351202,88,Login dos usuários,200,OK,Registro de usuários como estudante 1-13,text,true,,408,257,26,26,http://localhost:3000/students/login,88,0,0
+1763167351198,76,Login dos usuários,200,OK,Registro de usuários como estudante 1-14,text,true,,408,256,25,25,http://localhost:3000/students/login,76,0,0
+1763167351194,75,Login dos usuários,200,OK,Registro de usuários como estudante 1-3,text,true,,408,253,25,25,http://localhost:3000/students/login,75,0,0
+1763167351227,88,Login dos usuários,200,OK,Registro de usuários como estudante 1-2,text,true,,409,257,27,27,http://localhost:3000/students/login,87,0,0
+1763167351194,70,Login dos usuários,200,OK,Registro de usuários como estudante 1-12,text,true,,408,257,25,25,http://localhost:3000/students/login,70,0,0
+1763167351236,100,Login dos usuários,200,OK,Registro de usuários como estudante 1-11,text,true,,409,257,19,19,http://localhost:3000/students/login,100,0,0
+1763167351238,105,Login dos usuários,200,OK,Registro de usuários como estudante 1-1,text,true,,409,254,17,17,http://localhost:3000/students/login,104,0,0
+1763167351085,259,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-15,text,true,,352,290,16,16,http://localhost:3000/students/register,259,0,2
+1763167351095,251,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-16,text,true,,346,283,16,16,http://localhost:3000/students/register,251,0,2
+1763167351111,238,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-17,text,true,,352,290,16,16,http://localhost:3000/students/register,238,0,3
+1763167351136,216,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-18,text,true,,352,290,16,16,http://localhost:3000/students/register,216,0,2
+1763167351150,205,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-19,text,true,,350,288,16,16,http://localhost:3000/students/register,205,0,2
+1763167351174,183,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-20,text,true,,348,285,16,16,http://localhost:3000/students/register,183,0,2
+1763167351187,172,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-21,text,true,,350,288,16,16,http://localhost:3000/students/register,172,0,2
+1763167351206,155,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-22,text,true,,352,290,17,17,http://localhost:3000/students/register,155,0,3
+1763167351231,131,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-23,text,true,,350,288,17,17,http://localhost:3000/students/register,131,0,3
+1763167351241,129,Login dos usuários,200,OK,Registro de usuários como estudante 1-10,text,true,,409,258,18,18,http://localhost:3000/students/login,129,0,0
+1763167351345,44,Login dos usuários,200,OK,Registro de usuários como estudante 1-15,text,true,,409,257,17,17,http://localhost:3000/students/login,44,0,0
+1763167351347,46,Login dos usuários,200,OK,Registro de usuários como estudante 1-16,text,true,,409,254,17,17,http://localhost:3000/students/login,46,0,0
+1763167351351,47,Login dos usuários,200,OK,Registro de usuários como estudante 1-17,text,true,,409,257,16,16,http://localhost:3000/students/login,47,0,0
+1763167351353,48,Login dos usuários,200,OK,Registro de usuários como estudante 1-18,text,true,,409,257,15,15,http://localhost:3000/students/login,48,0,0
+1763167351356,48,Login dos usuários,200,OK,Registro de usuários como estudante 1-19,text,true,,409,256,14,14,http://localhost:3000/students/login,48,0,0
+1763167351358,50,Login dos usuários,200,OK,Registro de usuários como estudante 1-20,text,true,,409,255,13,13,http://localhost:3000/students/login,50,0,0
+1763167351359,53,Login dos usuários,200,OK,Registro de usuários como estudante 1-21,text,true,,409,256,13,13,http://localhost:3000/students/login,53,0,0
+1763167351361,59,Login dos usuários,200,OK,Registro de usuários como estudante 1-22,text,true,,409,257,12,12,http://localhost:3000/students/login,59,0,0
+1763167351240,182,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-24,text,true,,344,281,11,11,http://localhost:3000/students/register,182,0,2
+1763167351259,164,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-25,text,true,,348,285,11,11,http://localhost:3000/students/register,164,0,1
+1763167351286,138,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-26,text,true,,350,288,11,11,http://localhost:3000/students/register,138,0,1
+1763167351299,127,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-27,text,true,,352,290,11,11,http://localhost:3000/students/register,127,0,2
+1763167351321,114,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-28,text,true,,354,292,12,12,http://localhost:3000/students/register,114,0,12
+1763167351336,103,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-29,text,true,,356,294,12,12,http://localhost:3000/students/register,103,0,2
+1763167351361,80,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-30,text,true,,352,290,12,12,http://localhost:3000/students/register,80,0,1
+1763167351363,90,Login dos usuários,200,OK,Registro de usuários como estudante 1-23,text,true,,409,256,13,13,http://localhost:3000/students/login,90,0,0
+1763167351422,37,Login dos usuários,200,OK,Registro de usuários como estudante 1-24,text,true,,409,253,12,12,http://localhost:3000/students/login,37,0,0
+1763167351423,38,Login dos usuários,200,OK,Registro de usuários como estudante 1-25,text,true,,409,255,11,11,http://localhost:3000/students/login,38,0,0
+1763167351425,41,Login dos usuários,200,OK,Registro de usuários como estudante 1-26,text,true,,409,256,10,10,http://localhost:3000/students/login,41,0,0
+1763167351427,45,Login dos usuários,200,OK,Registro de usuários como estudante 1-27,text,true,,409,257,10,10,http://localhost:3000/students/login,45,0,0
+1763167351436,42,Login dos usuários,200,OK,Registro de usuários como estudante 1-28,text,true,,409,258,9,9,http://localhost:3000/students/login,42,0,0
+1763167351440,44,Login dos usuários,200,OK,Registro de usuários como estudante 1-29,text,true,,409,259,8,8,http://localhost:3000/students/login,44,0,0
+1763167351372,116,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-31,text,true,,358,296,7,7,http://localhost:3000/students/register,116,0,2
+1763167351392,99,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-32,text,true,,354,292,8,8,http://localhost:3000/students/register,99,0,1
+1763167351411,83,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-33,text,true,,348,285,8,8,http://localhost:3000/students/register,83,0,2
+1763167351433,63,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-34,text,true,,348,285,8,8,http://localhost:3000/students/register,63,0,3
+1763167351442,58,Login dos usuários,200,OK,Registro de usuários como estudante 1-30,text,true,,409,257,8,8,http://localhost:3000/students/login,58,0,0
+1763167351489,17,Login dos usuários,200,OK,Registro de usuários como estudante 1-31,text,true,,409,260,8,8,http://localhost:3000/students/login,17,0,0
+1763167351492,18,Login dos usuários,200,OK,Registro de usuários como estudante 1-32,text,true,,409,258,7,7,http://localhost:3000/students/login,18,0,0
+1763167351495,20,Login dos usuários,200,OK,Registro de usuários como estudante 1-33,text,true,,409,255,6,6,http://localhost:3000/students/login,20,0,0
+1763167351454,66,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-35,text,true,,352,290,5,5,http://localhost:3000/students/register,66,0,1
+1763167351471,53,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-36,text,true,,350,288,5,5,http://localhost:3000/students/register,53,0,2
+1763167351492,36,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-37,text,true,,348,285,6,6,http://localhost:3000/students/register,36,0,1
+1763167351497,36,Login dos usuários,200,OK,Registro de usuários como estudante 1-34,text,true,,409,255,6,6,http://localhost:3000/students/login,36,0,0
+1763167351521,19,Login dos usuários,200,OK,Registro de usuários como estudante 1-35,text,true,,409,257,5,5,http://localhost:3000/students/login,19,0,0
+1763167351525,18,Login dos usuários,200,OK,Registro de usuários como estudante 1-36,text,true,,409,256,5,5,http://localhost:3000/students/login,18,0,0
+1763167351506,40,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-38,text,true,,352,290,4,4,http://localhost:3000/students/register,40,0,1
+1763167351526,24,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-39,text,true,,348,285,4,4,http://localhost:3000/students/register,24,0,2
+1763167351529,28,Login dos usuários,200,OK,Registro de usuários como estudante 1-37,text,true,,409,255,4,4,http://localhost:3000/students/login,28,0,0
+1763167351547,18,Login dos usuários,200,OK,Registro de usuários como estudante 1-38,text,true,,409,257,4,4,http://localhost:3000/students/login,18,0,0
+1763167351543,26,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-40,text,true,,354,292,3,3,http://localhost:3000/students/register,26,0,1
+1763167351552,21,Login dos usuários,200,OK,Registro de usuários como estudante 1-39,text,true,,409,255,3,3,http://localhost:3000/students/login,21,0,0
+1763167351562,13,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-41,text,true,,352,290,2,2,http://localhost:3000/students/register,13,0,2
+1763167351570,8,Login dos usuários,200,OK,Registro de usuários como estudante 1-40,text,true,,409,258,2,2,http://localhost:3000/students/login,8,0,0
+1763167351576,7,Login dos usuários,200,OK,Registro de usuários como estudante 1-41,text,true,,409,257,2,2,http://localhost:3000/students/login,7,0,0
+1763167351583,5,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-42,text,true,,350,288,1,1,http://localhost:3000/students/register,5,0,2
+1763167351589,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-42,text,true,,409,256,1,1,http://localhost:3000/students/login,3,0,0
+1763167351607,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-43,text,true,,346,283,1,1,http://localhost:3000/students/register,3,0,1
+1763167351611,5,Login dos usuários,200,OK,Registro de usuários como estudante 1-43,text,true,,409,254,1,1,http://localhost:3000/students/login,5,0,0
+1763167351622,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-44,text,true,,356,294,1,1,http://localhost:3000/students/register,4,0,1
+1763167351626,5,Login dos usuários,200,OK,Registro de usuários como estudante 1-44,text,true,,409,259,1,1,http://localhost:3000/students/login,5,0,0
+1763167351639,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-45,text,true,,344,281,1,1,http://localhost:3000/students/register,3,0,1
+1763167351643,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-45,text,true,,409,253,1,1,http://localhost:3000/students/login,3,0,0
+1763167351656,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-46,text,true,,354,292,1,1,http://localhost:3000/students/register,4,0,2
+1763167351660,5,Login dos usuários,200,OK,Registro de usuários como estudante 1-46,text,true,,409,258,1,1,http://localhost:3000/students/login,5,0,0
+1763167351677,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-47,text,true,,356,294,1,1,http://localhost:3000/students/register,3,0,1
+1763167351680,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-47,text,true,,409,259,1,1,http://localhost:3000/students/login,3,0,0
+1763167351697,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-48,text,true,,348,285,1,1,http://localhost:3000/students/register,4,0,1
+1763167351702,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-48,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167351712,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-49,text,true,,352,290,1,1,http://localhost:3000/students/register,3,0,1
+1763167351716,4,Login dos usuários,200,OK,Registro de usuários como estudante 1-49,text,true,,409,257,1,1,http://localhost:3000/students/login,4,0,0
+1763167351734,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-50,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,2
+1763167351738,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-50,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167633403,130,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-11,text,true,,351,290,18,18,http://localhost:3000/students/register,130,0,50
+1763167633403,131,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-10,text,true,,353,292,18,18,http://localhost:3000/students/register,131,0,52
+1763167633403,130,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-6,text,true,,357,296,18,18,http://localhost:3000/students/register,130,0,52
+1763167633403,130,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-1,text,true,,351,290,18,18,http://localhost:3000/students/register,130,0,52
+1763167633403,134,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-4,text,true,,345,283,18,18,http://localhost:3000/students/register,134,0,52
+1763167633403,139,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-8,text,true,,347,285,19,19,http://localhost:3000/students/register,138,0,52
+1763167633436,109,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-13,text,true,,351,290,19,19,http://localhost:3000/students/register,109,0,19
+1763167633418,132,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-12,text,true,,351,290,19,19,http://localhost:3000/students/register,131,0,37
+1763167633403,152,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-3,text,true,,343,281,19,19,http://localhost:3000/students/register,152,0,53
+1763167633403,156,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-5,text,true,,352,290,19,19,http://localhost:3000/students/register,156,0,53
+1763167633403,158,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-7,text,true,,346,283,19,19,http://localhost:3000/students/register,158,0,53
+1763167633403,161,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-2,text,true,,346,283,19,19,http://localhost:3000/students/register,160,0,50
+1763167633403,162,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-9,text,true,,348,285,19,19,http://localhost:3000/students/register,162,0,50
+1763167633460,155,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-14,text,true,,350,288,22,22,http://localhost:3000/students/register,155,0,2
+1763167633469,147,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-15,text,true,,352,290,22,22,http://localhost:3000/students/register,147,0,2
+1763167633492,127,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-16,text,true,,346,283,23,23,http://localhost:3000/students/register,127,0,2
+1763167633509,112,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-17,text,true,,352,290,23,23,http://localhost:3000/students/register,112,0,2
+1763167633526,99,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-18,text,true,,352,290,23,23,http://localhost:3000/students/register,99,0,2
+1763167633543,84,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-19,text,true,,350,288,23,23,http://localhost:3000/students/register,84,0,1
+1763167633540,54,Login dos usuários,200,OK,Registro de usuários como estudante 1-1,text,true,,408,257,21,21,http://localhost:3000/students/login,54,0,0
+1763167633542,55,Login dos usuários,200,OK,Registro de usuários como estudante 1-8,text,true,,408,255,21,21,http://localhost:3000/students/login,55,0,0
+1763167633539,47,Login dos usuários,200,OK,Registro de usuários como estudante 1-11,text,true,,408,257,21,21,http://localhost:3000/students/login,46,0,0
+1763167633556,53,Login dos usuários,200,OK,Registro de usuários como estudante 1-3,text,true,,408,253,22,22,http://localhost:3000/students/login,53,0,0
+1763167633539,51,Login dos usuários,200,OK,Registro de usuários como estudante 1-6,text,true,,408,260,21,21,http://localhost:3000/students/login,51,0,0
+1763167633560,53,Login dos usuários,200,OK,Registro de usuários como estudante 1-5,text,true,,409,257,22,22,http://localhost:3000/students/login,53,0,0
+1763167633562,70,Login dos usuários,200,OK,Registro de usuários como estudante 1-7,text,true,,409,254,23,23,http://localhost:3000/students/login,70,0,0
+1763167633551,53,Login dos usuários,200,OK,Registro de usuários como estudante 1-12,text,true,,408,257,22,22,http://localhost:3000/students/login,53,0,0
+1763167633546,55,Login dos usuários,200,OK,Registro de usuários como estudante 1-13,text,true,,408,257,21,21,http://localhost:3000/students/login,55,0,0
+1763167633539,36,Login dos usuários,200,OK,Registro de usuários como estudante 1-10,text,true,,408,258,20,20,http://localhost:3000/students/login,36,0,0
+1763167633539,40,Login dos usuários,200,OK,Registro de usuários como estudante 1-4,text,true,,408,254,20,20,http://localhost:3000/students/login,40,0,0
+1763167633564,74,Login dos usuários,200,OK,Registro de usuários como estudante 1-2,text,true,,409,254,12,12,http://localhost:3000/students/login,74,0,0
+1763167633567,74,Login dos usuários,200,OK,Registro de usuários como estudante 1-9,text,true,,409,255,11,11,http://localhost:3000/students/login,74,0,0
+1763167633616,29,Login dos usuários,200,OK,Registro de usuários como estudante 1-14,text,true,,409,256,11,11,http://localhost:3000/students/login,29,0,0
+1763167633617,31,Login dos usuários,200,OK,Registro de usuários como estudante 1-15,text,true,,409,257,10,10,http://localhost:3000/students/login,31,0,0
+1763167633620,31,Login dos usuários,200,OK,Registro de usuários como estudante 1-16,text,true,,409,254,9,9,http://localhost:3000/students/login,31,0,0
+1763167633622,33,Login dos usuários,200,OK,Registro de usuários como estudante 1-17,text,true,,409,257,9,9,http://localhost:3000/students/login,33,0,0
+1763167633626,33,Login dos usuários,200,OK,Registro de usuários como estudante 1-18,text,true,,409,257,8,8,http://localhost:3000/students/login,33,0,0
+1763167633568,92,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-20,text,true,,348,285,8,8,http://localhost:3000/students/register,92,0,1
+1763167633581,80,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-21,text,true,,350,288,7,7,http://localhost:3000/students/register,80,0,2
+1763167633603,60,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-22,text,true,,352,290,7,7,http://localhost:3000/students/register,60,0,1
+1763167633619,46,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-23,text,true,,350,288,7,7,http://localhost:3000/students/register,46,0,2
+1763167633628,40,Login dos usuários,200,OK,Registro de usuários como estudante 1-19,text,true,,409,256,7,7,http://localhost:3000/students/login,40,0,0
+1763167633661,13,Login dos usuários,200,OK,Registro de usuários como estudante 1-20,text,true,,409,255,6,6,http://localhost:3000/students/login,13,0,0
+1763167633662,15,Login dos usuários,200,OK,Registro de usuários como estudante 1-21,text,true,,409,256,5,5,http://localhost:3000/students/login,15,0,0
+1763167633664,15,Login dos usuários,200,OK,Registro de usuários como estudante 1-22,text,true,,409,257,5,5,http://localhost:3000/students/login,15,0,0
+1763167633642,45,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-24,text,true,,344,281,4,4,http://localhost:3000/students/register,45,0,2
+1763167633656,36,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-25,text,true,,348,285,4,4,http://localhost:3000/students/register,35,0,2
+1763167633665,30,Login dos usuários,200,OK,Registro de usuários como estudante 1-23,text,true,,409,256,4,4,http://localhost:3000/students/login,30,0,0
+1763167633688,11,Login dos usuários,200,OK,Registro de usuários como estudante 1-24,text,true,,409,253,4,4,http://localhost:3000/students/login,11,0,0
+1763167633679,23,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-26,text,true,,350,288,3,3,http://localhost:3000/students/register,23,0,1
+1763167633692,13,Login dos usuários,200,OK,Registro de usuários como estudante 1-25,text,true,,409,255,3,3,http://localhost:3000/students/login,13,0,0
+1763167633697,10,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-27,text,true,,352,290,2,2,http://localhost:3000/students/register,10,0,2
+1763167633703,6,Login dos usuários,200,OK,Registro de usuários como estudante 1-26,text,true,,409,256,2,2,http://localhost:3000/students/login,6,0,0
+1763167633708,4,Login dos usuários,200,OK,Registro de usuários como estudante 1-27,text,true,,409,257,1,1,http://localhost:3000/students/login,4,0,0
+1763167633716,6,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-28,text,true,,354,292,1,1,http://localhost:3000/students/register,5,0,3
+1763167633722,6,Login dos usuários,200,OK,Registro de usuários como estudante 1-28,text,true,,409,258,1,1,http://localhost:3000/students/login,6,0,0
+1763167633736,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-29,text,true,,356,294,1,1,http://localhost:3000/students/register,3,0,1
+1763167633739,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-29,text,true,,409,259,1,1,http://localhost:3000/students/login,3,0,0
+1763167633754,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-30,text,true,,352,290,1,1,http://localhost:3000/students/register,3,0,1
+1763167633757,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-30,text,true,,409,257,1,1,http://localhost:3000/students/login,3,0,0
+1763167633774,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-31,text,true,,358,296,1,1,http://localhost:3000/students/register,3,0,1
+1763167633778,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-31,text,true,,409,260,1,1,http://localhost:3000/students/login,3,0,0
+1763167633791,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-32,text,true,,354,292,1,1,http://localhost:3000/students/register,3,0,1
+1763167633794,4,Login dos usuários,200,OK,Registro de usuários como estudante 1-32,text,true,,409,258,1,1,http://localhost:3000/students/login,4,0,0
+1763167633807,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-33,text,true,,348,285,1,1,http://localhost:3000/students/register,4,0,2
+1763167633812,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-33,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167633834,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-34,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,2
+1763167633838,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-34,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167633847,2,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-35,text,true,,352,290,1,1,http://localhost:3000/students/register,2,0,1
+1763167633850,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-35,text,true,,409,257,1,1,http://localhost:3000/students/login,3,0,0
+1763167633862,2,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-36,text,true,,350,288,1,1,http://localhost:3000/students/register,2,0,1
+1763167633865,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-36,text,true,,409,256,1,1,http://localhost:3000/students/login,3,0,0
+1763167633887,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-37,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,2
+1763167633891,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-37,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167633899,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-38,text,true,,352,290,1,1,http://localhost:3000/students/register,3,0,1
+1763167633903,4,Login dos usuários,200,OK,Registro de usuários como estudante 1-38,text,true,,409,257,1,1,http://localhost:3000/students/login,4,0,0
+1763167633922,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-39,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,2
+1763167633926,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-39,text,true,,409,255,1,1,http://localhost:3000/students/login,3,0,0
+1763167633941,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-40,text,true,,354,292,1,1,http://localhost:3000/students/register,3,0,1
+1763167633944,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-40,text,true,,409,258,1,1,http://localhost:3000/students/login,3,0,0
+1763167633961,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-41,text,true,,352,290,1,1,http://localhost:3000/students/register,3,0,1
+1763167633964,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-41,text,true,,409,257,1,1,http://localhost:3000/students/login,3,0,0
+1763167633980,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-42,text,true,,350,288,1,1,http://localhost:3000/students/register,3,0,1
+1763167633983,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-42,text,true,,409,256,1,1,http://localhost:3000/students/login,3,0,0
+1763167633990,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-43,text,true,,346,283,1,1,http://localhost:3000/students/register,3,0,1
+1763167633994,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-43,text,true,,409,254,1,1,http://localhost:3000/students/login,3,0,0
+1763167634010,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-44,text,true,,356,294,1,1,http://localhost:3000/students/register,3,0,1
+1763167634014,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-44,text,true,,409,259,1,1,http://localhost:3000/students/login,3,0,0
+1763167634030,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-45,text,true,,344,281,1,1,http://localhost:3000/students/register,3,0,1
+1763167634034,6,Login dos usuários,200,OK,Registro de usuários como estudante 1-45,text,true,,409,253,1,1,http://localhost:3000/students/login,6,0,0
+1763167634048,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-46,text,true,,354,292,1,1,http://localhost:3000/students/register,3,0,2
+1763167634052,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-46,text,true,,409,258,1,1,http://localhost:3000/students/login,3,0,0
+1763167634066,4,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-47,text,true,,356,294,1,1,http://localhost:3000/students/register,3,0,1
+1763167634070,3,Login dos usuários,200,OK,Registro de usuários como estudante 1-47,text,true,,409,259,1,1,http://localhost:3000/students/login,3,0,0
+1763167634088,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-48,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,2
+1763167634092,5,Login dos usuários,200,OK,Registro de usuários como estudante 1-48,text,true,,409,255,1,1,http://localhost:3000/students/login,5,0,0
+1763167634105,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-49,text,true,,352,290,1,1,http://localhost:3000/students/register,3,0,1
+1763167634108,4,Login dos usuários,200,OK,Registro de usuários como estudante 1-49,text,true,,409,257,1,1,http://localhost:3000/students/login,4,0,0
+1763167634123,3,Registrar usuário como estudante,201,Created,Registro de usuários como estudante 1-50,text,true,,348,285,1,1,http://localhost:3000/students/register,3,0,1
+1763167634127,2,Login dos usuários,200,OK,Registro de usuários como estudante 1-50,text,true,,409,255,1,1,http://localhost:3000/students/login,2,0,0
+1763167875471,58,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-7,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,58
+1763167875470,59,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-4,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,59
+1763167875471,58,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-8,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,58
+1763167875486,44,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-16,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,44
+1763167875503,31,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-17,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,31
+1763167875471,63,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-14,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,63
+1763167875471,63,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-11,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,63
+1763167875523,21,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-18,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,14
+1763167875545,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-19,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,2
+1763167875471,82,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-5,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,82
+1763167875471,58,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-15,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,58
+1763167875470,62,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-6,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,62
+1763167875470,60,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-12,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,60
+1763167875470,61,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-10,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,61
+1763167875470,61,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-9,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,61
+1763167875470,60,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-3,text,false,,2631,0,18,18,http://localhost:3000/students/register,0,0,60
+1763167875471,111,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-1,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,111
+1763167875470,116,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-2,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,116
+1763167875470,118,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-13,text,false,,2631,0,19,19,http://localhost:3000/students/register,0,0,118
+1763167875594,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-22,text,false,,2631,0,22,22,http://localhost:3000/students/register,0,0,3
+1763167875596,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-21,text,false,,2631,0,22,22,http://localhost:3000/students/register,0,0,3
+1763167875596,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-20,text,false,,2631,0,22,22,http://localhost:3000/students/register,0,0,3
+1763167875607,4,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-23,text,false,,2631,0,23,23,http://localhost:3000/students/register,0,0,3
+1763167875582,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-9,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,3
+1763167875544,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-11,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,2
+1763167875536,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-16,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,18,18,http://localhost:3000/students/login,0,0,3
+1763167875612,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-23,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,23,23,http://localhost:3000/students/login,0,0,3
+1763167875598,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-22,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,22,22,http://localhost:3000/students/login,0,0,2
+1763167875536,5,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-8,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,18,18,http://localhost:3000/students/login,0,0,5
+1763167875568,17,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-12,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,17
+1763167875549,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-19,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,3
+1763167875556,4,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-5,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,4
+1763167875546,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-18,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,2
+1763167875588,5,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-2,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,20,20,http://localhost:3000/students/login,0,0,5
+1763167875536,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-4,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,18,18,http://localhost:3000/students/login,0,0,2
+1763167875565,20,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-15,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,20
+1763167875601,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-21,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,22,22,http://localhost:3000/students/login,0,0,3
+1763167875565,15,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-6,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,15
+1763167875536,12,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-14,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,12
+1763167875593,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-13,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,22,22,http://localhost:3000/students/login,0,0,3
+1763167875635,5,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-24,text,false,,2631,0,9,9,http://localhost:3000/students/register,0,0,4
+1763167875585,9,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-1,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,20,20,http://localhost:3000/students/login,0,0,9
+1763167875570,10,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-10,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,10
+1763167875582,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-3,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,2
+1763167875536,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-7,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,18,18,http://localhost:3000/students/login,0,0,3
+1763167875536,10,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-17,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,19,19,http://localhost:3000/students/login,0,0,10
+1763167875602,5,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-20,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,23,23,http://localhost:3000/students/login,0,0,5
+1763167875642,5,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-24,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,2,2,http://localhost:3000/students/login,0,0,5
+1763167875648,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-25,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875652,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-25,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,2,2,http://localhost:3000/students/login,0,0,2
+1763167875654,4,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-26,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,4
+1763167875660,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-26,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,3
+1763167875673,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-27,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875677,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-27,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,3
+1763167875691,4,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-28,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875696,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-28,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875710,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-30,text,false,,2631,0,2,2,http://localhost:3000/students/register,0,0,2
+1763167875711,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-29,text,false,,2631,0,2,2,http://localhost:3000/students/register,0,0,2
+1763167875713,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-30,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,2,2,http://localhost:3000/students/login,0,0,2
+1763167875714,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-29,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875730,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-31,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875734,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-31,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875742,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-32,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875745,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-32,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875763,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-33,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875766,4,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-33,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,4
+1763167875785,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-34,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875788,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-34,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,3
+1763167875801,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-35,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875805,3,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-35,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,3
+1763167875814,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-36,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875818,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-36,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875827,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-37,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875829,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-37,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875847,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-38,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875850,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-38,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875861,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-39,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875864,1,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-39,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,1
+1763167875876,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-40,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875879,1,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-40,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,1
+1763167875894,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-41,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875897,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-41,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875908,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-42,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875911,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-42,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875926,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-43,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,3
+1763167875931,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-43,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875944,3,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-44,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875948,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-44,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875961,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-45,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875965,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-45,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875981,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-46,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167875983,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-46,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167875998,1,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-47,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,1
+1763167876000,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-47,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167876019,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-48,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167876021,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-48,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167876037,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-49,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167876041,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-49,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2
+1763167876058,2,Registrar usuário como estudante,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-50,text,false,,2631,0,1,1,http://localhost:3000/students/register,0,0,2
+1763167876061,2,Login dos usuários,Non HTTP response code: org.apache.http.conn.HttpHostConnectException,"Non HTTP response message: Connect to localhost:3000 [localhost/127.0.0.1, localhost/0:0:0:0:0:0:0:1] failed: Connection refused: connect",Registro de usuários como estudante 1-50,text,false,"Test failed: code expected to equal /
+
+****** received  : [[[Non HTTP response code: org.apache.http.conn.HttpHostConnectException]]]
+
+****** comparison: [[[200                                                                  ]]]
+
+/",2631,0,1,1,http://localhost:3000/students/login,0,0,2

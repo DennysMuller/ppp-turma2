@@ -1,1 +1,23 @@
+# Define que o Git deve tentar detectar o que é texto automaticamente
 * text=auto
+
+# Força os arquivos de texto mais comuns a usarem CRLF
+*.js            eol=crlf
+*.html          eol=crlf
+*.htm           eol=crlf
+*.css           eol=crlf
+*.json          eol=crlf
+*.md            eol=crlf
+*.txt           eol=crlf
+*.jlt           eol=crlf
+*.log           eol=crlf
+*.csv           eol=crlf
+*.gitignore     eol=crlf
+*.gitattributes eol=crlf
+
+# Marca explicitamente os arquivos de imagem como binários para que o Git não os modifique
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.pdf     binary
